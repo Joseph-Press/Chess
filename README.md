@@ -2,6 +2,12 @@
 
 This is a simple chess game developed using C++ and Qt. GUI is done through Qt. It showcases available moves and captures for the selected piece, and clearly indicates whose turn it is to move.
 
+## Info
+Platform: Windows (64-bit)
+
+How to Install:
+Unzip chessGame.zip and run chess.exe
+
 ## Cool things
 
 - **Highlight Available Moves**: When a piece is selected, the game highlights all the legal directional moves that the piece can make on the board.
@@ -14,3 +20,4 @@ This is a simple chess game developed using C++ and Qt. GUI is done through Qt. 
 - [ ] Implement en passant capture rules for pawns.
 - [ ] Implement castling moves for kings and rooks.
 - [ ] Deselect piece when initially click on one piece but when clicking on the board to move, click on another piece (currently you have to unselect the piece manually)
+- [ ] Enable play cross platform
