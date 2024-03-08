@@ -21,3 +21,4 @@ Unzip chessGame.zip and run chess.exe
 - [ ] Implement castling moves for kings and rooks.
 - [ ] Deselect piece when initially click on one piece but when clicking on the board to move, click on another piece (currently you have to unselect the piece manually)
 - [ ] Enable play cross platform
+- [ ] fix highlighting issues (sometimes the highlighting combines for pieces)
