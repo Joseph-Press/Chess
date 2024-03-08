@@ -13,3 +13,4 @@ This is a simple chess game developed using C++ and Qt. GUI is done through Qt. 
 - [ ] Implement checking functionality to prevent illegal moves that expose the king to check.
 - [ ] Implement en passant capture rules for pawns.
 - [ ] Implement castling moves for kings and rooks.
+- [ ] Deselect piece when initially click on one piece but when clicking on the board to move, click on another piece (currently you have to unselect the piece manually)
