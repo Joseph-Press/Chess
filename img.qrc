@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>sprites/bishop1.png</file>
+        <file>sprites/bishop2.png</file>
+        <file>sprites/king1.png</file>
+        <file>sprites/king2.png</file>
+        <file>sprites/knight1.png</file>
+        <file>sprites/knight2.png</file>
+        <file>sprites/pawn1.png</file>
+        <file>sprites/pawn2.png</file>
+        <file>sprites/piece.png</file>
+        <file>sprites/queen1.png</file>
+        <file>sprites/queen2.png</file>
+        <file>sprites/rook1.png</file>
+        <file>sprites/rook2.png</file>
+    </qresource>
+</RCC>
