@@ -20,5 +20,5 @@ Unzip chessGame.zip and run chess.exe
 - [ ] Implement en passant capture rules for pawns.
 - [ ] Implement castling moves for kings and rooks.
 - [ ] Deselect piece when initially click on one piece but when clicking on the board to move, click on another piece (currently you have to unselect the piece manually)
-- [ ] Enable play cross platform
+- [ ] Enable play on platforms other than windows
 - [ ] fix highlighting issues (sometimes the highlighting combines for pieces)
